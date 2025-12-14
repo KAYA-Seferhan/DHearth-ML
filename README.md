@@ -100,5 +100,3 @@ Random Forest modeli üzerinden yapılan analizde, aşağıdaki değişkenlerin 
 - ca
 
 Bu değişkenler klinik açıdan da anlamlı sonuçlar sunmaktadır.
-
----
